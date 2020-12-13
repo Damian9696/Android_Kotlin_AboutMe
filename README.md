@@ -1,5 +1,5 @@
-# DiceRoller
-> An Android application that is used to display the result of a dice roll. The app covers the essentials of UI layout design such as TextView, EditText, LinearLayout, ConstraintLayout and DataBinding.
+# AboutMe
+> An Android application that is used to display the result of a DataBinding. The app covers the essentials of UI design such as TextView, EditText, ImageView, LinearLayout, ConstraintLayout, DataBinding.
 
 ## Table of contents
 * [General info](#general-info)
@@ -20,7 +20,7 @@ The main goal of this project was to start writing Android code in Kotlin and le
 * Android Studio
 
 ## Setup
-* Clone or download ZIP repository https://github.com/Damian9696/DiceRoller/tree/dev
+* Clone or download ZIP repository https://github.com/Damian9696/Android_Kotlin_AboutMe
 * Import the project into Android Studio
 
 ## Status
